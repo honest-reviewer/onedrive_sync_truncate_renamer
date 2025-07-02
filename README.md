@@ -3,6 +3,10 @@
 
 
 해당 코드들은 모두 ChatGPT로 제작했으며 이 코드를 실행해서 발생하는 문제에 대하여 책임지지 않습니다.
+<img width="218" alt="image" src="https://github.com/user-attachments/assets/f304260a-2c40-4fa2-beaf-72a7ea05a1ec" />
+
+꼭 윈도우 상에서 실행 시키길 바랍니다. 윈도우에서 하셔야 합니다.
+
 
 <img width="342" alt="image" src="https://github.com/user-attachments/assets/238eb5eb-af1d-4168-853f-1cb2abc9c10e" />
 
